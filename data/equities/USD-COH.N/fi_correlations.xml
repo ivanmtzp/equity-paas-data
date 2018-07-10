@@ -1,0 +1,1932 @@
+
+<Mkt>
+
+<Pnt Name="USD-BIIB.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.431761625531904" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ABT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.463579161405962" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-ADEN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.453560727265231" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-UTX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.495289088227281" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KO.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.414630625420231" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CL.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.50014471347031" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PXD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.439463408687399" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-REP.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.431263164477642" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AAL.OQ">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.461100762442255" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="JPY-NIKKEI 225">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.445156659302565" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-FTE.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.433878961917264" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PRU.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.481532175044374" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CVX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.473633417739405" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-M.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.590762794257266" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PFE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.438849939947969" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-AAL.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.401330155492352" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CBKG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.456864263681385" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SAPG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443208212179404" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WFC.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.482382207631203" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.485339110750182" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CAT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.48448877663497" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SO.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.350531138165264" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-PHG.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.46313516360993" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ISPA.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.451597110142417" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TWTR.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.448183660845998" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-OMX INDEX">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.478079651099797" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-GSK.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.405458958826212" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLF.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.531270590636746" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUROSTOXX BANK">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.437872759018627" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.533374464845992" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EWJ.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.483557609580245" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-SLHN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.503150287525287" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MWD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.489654217896161" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MA.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.475138882460975" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GILD.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.402163065948485" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-UHR.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.46656093022052" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-K.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.413249896158261" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BLK.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.531533824748039" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EWW.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.495126538558429" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-YHOO.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2017-10-16"/>
+  <Msr Val="0.454276758588983" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CRM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.455698350227026" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EEM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.504748243405888" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HESS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.453767826255981" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AXP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.497546054069061" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-HEIN.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.40348759814171" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ADP.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.489882563347226" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MO.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.42998363984286" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CMCSA.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.46450708230468" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-POT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.454333329270209" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MSFT.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.458334034817309" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-LMT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.458828989390737" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BMY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.419467103717107" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SPX 500 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.580491163490524" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="IPC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.500299254015401" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WDC.P">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.459477620870701" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MAR.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.491966603929693" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-ROCZG.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.411582773718705" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-BATS.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.437201376220975" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GOOAV.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.453752302640629" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CAC IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.48626295052744" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XOM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.441607757089355" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-JNJ.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.436318690810429" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-RDSA.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.461038061090213" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-NEM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.331521638482614" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SGEF.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.418944463201425" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-EONG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.406357091081335" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PCLN.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.460422598217705" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-NDA.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.440317931071387" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ALLY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.470951011985499" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BBY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.510826529824017" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="KOSPI 200 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.441912340739018" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-NOK1V.HE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.411819576981425" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BIN.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.417165821593764" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FB.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.423426051117657" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MCD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.474480852702561" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SCH.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.434995415081457" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-ABBN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.484569277394125" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TRV.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.444384048293847" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BAP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.48034692698206" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-LOW.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.53394899723544" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ITX.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.463106023495482" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ENEI.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.408337120698705" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ESSI.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.409937583528541" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-DHR.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.485353223549953" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-AXAF.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.464187358661803" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-JD.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.404890597397855" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-FIA.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443488127588167" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-IBM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.466624616671586" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-NEE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.364450656128954" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CARR.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.424130632603985" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TSLA.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.424824892556582" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-GIVZN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.419108367702269" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BNPP.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.452723415282451" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-DUK.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.348917446085589" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HON.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.49480563828231" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-VIE.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.454926418655354" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DCXGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443193345276872" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-CFR.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.494336982896138" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ADBE.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.482367115247978" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MDT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.437376484568505" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-BP/.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.409047316474655" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AVGO.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.424939500981742" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SOGN.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.41991260500135" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-C.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.510833047751424" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SIEGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.45041602898203" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ING.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.438409104943861" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DTEG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.413103448021636" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SBUX.OK">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.469261497190286" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-LLOY.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.402653778238283" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMZN.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.438842474160573" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AEP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.353118810990129" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FEZ.P">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.500403381810633" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DAX IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.488690373472155" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TRIP.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.471288792449376" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PYPLV.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.428415364508288" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TMO.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.49689299873097" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-AIRP.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.421055344254693" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BIDU.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.446050248764584" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ABX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.33311959058139" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SPMIB IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.436936480891386" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KMB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.427103872148489" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ACN.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.494996240988376" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PPL.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.394555524470608" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-UPS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.474487516928015" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMGN.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.413108857845602" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WMT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.446715708282842" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.494702106267816" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-UNP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.476750585545881" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BUD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.446236028478673" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-RWEG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.380859494908762" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.473213826717945" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TWX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.473168746140737" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FDX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.491557341259205" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AET.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.429135426057773" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-IBE.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.444543123241728" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-AZN.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.391952448807066" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-DOW.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.459021718021034" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-SSMI IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.459096403409236" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EBAY.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.431089020383101" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-NOVZN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.394038372839481" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PSX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.461019800326748" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-ERICB.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.429323031428542" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WYNN.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.427907809618191" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-GDFPP.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.426421658349259" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="HSCEI IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.467766416004107" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XOP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.45741994529759" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.436369849460405" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.63925686093597" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BAC.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.506723604729084" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-QCOM.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.421725518836732" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-FREG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.397145072515945" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-NESN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.420826543429591" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-JPM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.480582808082294" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-LIN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43469837581185" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-IBEX 35 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.468296591081318" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SYMC.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.473747610315735" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLI.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.557725285062373" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BMW.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43802330587922" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-UNBP.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.402170235256641" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CAD-TSX60.IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.5004715185466" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-VIAB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.503094133837287" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-TIT.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.379550391756462" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.450436214548141" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PNC.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.500460126514943" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AIG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.488472209570516" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-NKE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.549647011085419" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLK.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.524069031002437" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CRDI.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.430314070017446" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MELI.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.475219019631068" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-CSGN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.482644535482639" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MET.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.499354305032502" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-VOWG_P.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.41628253720876" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SCHW.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.491112913555051" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-IFXGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.441146971634862" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-V.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.463316990789864" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-NDX 100 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.524251894069986" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KR.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.390586102852611" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-JWN.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.579362934094259" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.416867569813251" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HAL.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.471878766325381" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-BT.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.377949413652473" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WAG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.450099765011323" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-NFLX.OQ">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.429706054995301" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.503879781685285" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SPG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.45200853056695" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-LHA.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.396878854511359" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-GLEN.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.425177845656899" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-INCY.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.420782266899637" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CAGR.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.426030595590678" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-T.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.412368160126961" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EXPE.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.449690121206909" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.554339880440923" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-FTSE IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.490349618097597" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-D.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.380278064928687" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CELG.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.41478020032726" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MPC.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.440763746696171" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-DIS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.505999470636168" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ASML.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.44913789969568" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-TOTF.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.447712881629545" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-TKAG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.48121469858548" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUROSTOXX50 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.494405171111926" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ENI.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43280161193944" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-VOLVB.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.414019548822247" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMAT.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.499314691574536" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KRFTV.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.413401990482274" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.472573716359317" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KORS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.604226575927451" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-PRU.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443064906077876" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BASF.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.44638370416298" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ABBV-W.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.458820602683524" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HYG.P">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.478213904717581" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-VOD.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.372445969307798" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SLB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.437987613449122" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="AS51 IND">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.49695593762475" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-UBSG.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.438270715302574" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DPW.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.42639789133667" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43901770754173" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-SRENH.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.440189815218177" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SCHN.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.447367589977123" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-PCAR.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.552816807252349" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CHTR.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.414395773187791" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MMM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.496435860558645" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AMD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.45858475368224" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-USB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.513834789475686" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-RENA.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443421569005707" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CVS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.476816466467293" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-AHLN.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.393891080571002" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-MUVGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.412910047619624" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-GASI.MI">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.425988392459888" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FXI.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.491002162502064" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-HSBA.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.435949761576467" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-APA.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.440137270039979" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EOG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.442041810821895" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ORCL.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.47408475133743" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-SCMN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.397521562105989" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ADSGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.456844325689828" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GOOG.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.453637983882652" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CSX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.477599135506425" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DANO.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.424418930076996" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HAS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.503704629614764" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-BLT.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.451031561342964" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-IBB.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.451707569109895" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-LVMH.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.471253170813269" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.464139445903981" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLU.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.36028823555419" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-WLP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.426371354691647" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-EAUG.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.444252613012285" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-COF.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.48755429455379" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-UNC.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.457121365605844" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BBD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.421288870498553" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MDY.P">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.614636998369427" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ACT.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.434863141687641" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XLV.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.470773691389974" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BAYG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.419097911835002" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-BBV.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43952404626389" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-EWZ.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.434203411762399" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-CONG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.452367360198796" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BK.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.508397247137224" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-DGE.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.410603230681813" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-LLY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.3777495470475" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-HMB.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.437049331733927" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-HOLN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.466520091859092" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-VALE.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.430927673006876" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-TEF.MC">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.442809398808839" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KEY.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.489907448913882" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-UNH.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.434087638017814" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MRK.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.385300763750622" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SASY.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.410846139326576" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-DBKGN.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.44277847749494" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="CHF-ZURN.S">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.459868127563225" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-RDSB.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.444947587936204" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GM.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.511088569016616" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FCX.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.469248456220591" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-SEBA.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.426314433089865" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GG.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.317795265036308" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-VZ.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.423555238389216" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-PERP.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.432945035180235" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HWP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.483025762273002" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MDLZV.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.435642329275037" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BRKB.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.495110375437386" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-GS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.5025880896897" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-HEIG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.452908392223373" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-INTC.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.434580371626325" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ISRG.OQ">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.391524033073076" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-BA.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.492427057147055" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-OREP.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.458124999650064" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-F.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.529004041973264" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-ALVG.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443950884668572" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-XME.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.495571654448802" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CSCO.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.443656925092592" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-BARC.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.455100627451808" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-APC.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.43979843578036" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-HNKG_P.DE">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.413127704551896" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-FL.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.522208297073612" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-ESRX.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.45771442080535" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-DD.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.45402627581236" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-COST.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.445101408333614" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CCL.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.502708621256526" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-RTY INDEX">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.569725595051723" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-AAPL.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.432343554855658" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-AEGN.AS">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.445684306369112" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-VWO.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.501979889950033" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-SGOB.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.453268628922223" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-TMUS.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.429391833557488" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-COP.N">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.452938166947955" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-STX.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.47032785864496" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-RIO.L">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.474388818788034" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="SEK-SWEDA.ST">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.434099565084365" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-EAD.PA">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.421802590773338" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-INTB.BR">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.442375012591339" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-MU.O">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="0.458673336231845" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+
+<Pnt Name="USD-MXN">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.205007138458626" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="AUD-USD">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.155902808233309" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="GBP-USD">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.20546965005719" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-HKD">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.198910818177928" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-KRW">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.272570711905488" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="EUR-USD">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.060602637939088" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-JPY">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="0.00660155241634597" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CHF">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.251845579090255" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-CAD">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.234756172035474" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+<Pnt Name="USD-SEK">
+  <Undly ID="USD-COH.N" PxStrctTyp="EQ_CORRELATION" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-17"/>
+  <Msr Val="-0.245566571562145" ValTyp="Other" MktDataTyp="ASK"/>
+</Pnt>
+
+
+
+</Mkt>

@@ -1,0 +1,441 @@
+
+<Mkt>
+<Curve Name="EUR-EAUG.PA">
+  <Undly PxStrctTyp="EQ_DIVIDENDS_YIELD" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="1" ValTyp="Other" Row="2018-01-29" RowTyp="Other"/>
+  <Msr Val="1.0000005480001501" ValTyp="Other" Row="2018-01-30" RowTyp="Other"/>
+  <Msr Val="1.000005479467067" ValTyp="Other" Row="2018-02-08" RowTyp="Other"/>
+  <Msr Val="1.000013972700357" ValTyp="Other" Row="2018-02-15" RowTyp="Other"/>
+  <Msr Val="1.000059453822103" ValTyp="Other" Row="2018-03-01" RowTyp="Other"/>
+  <Msr Val="1.0002299015301563" ValTyp="Other" Row="2018-05-02" RowTyp="Other"/>
+  <Msr Val="1.000553565676027" ValTyp="Other" Row="2018-08-01" RowTyp="Other"/>
+  <Msr Val="1.0008321268475182" ValTyp="Other" Row="2018-11-01" RowTyp="Other"/>
+  <Msr Val="1.0012105951932038" ValTyp="Other" Row="2019-02-01" RowTyp="Other"/>
+  <Msr Val="1.0016353567699436" ValTyp="Other" Row="2019-05-02" RowTyp="Other"/>
+  <Msr Val="1.0021096466701536" ValTyp="Other" Row="2019-08-01" RowTyp="Other"/>
+  <Msr Val="1.002643279862725" ValTyp="Other" Row="2019-11-01" RowTyp="Other"/>
+  <Msr Val="1.0032271137642164" ValTyp="Other" Row="2020-02-03" RowTyp="Other"/>
+  <Msr Val="1.0054406604766493" ValTyp="Other" Row="2021-02-01" RowTyp="Other"/>
+  <Msr Val="1.008261903465514" ValTyp="Other" Row="2022-02-01" RowTyp="Other"/>
+  <Msr Val="1.011597432235447" ValTyp="Other" Row="2023-02-01" RowTyp="Other"/>
+  <Msr Val="1.0163687000253794" ValTyp="Other" Row="2024-02-01" RowTyp="Other"/>
+  <Msr Val="1.022029364883553" ValTyp="Other" Row="2025-02-03" RowTyp="Other"/>
+  <Msr Val="1.0317670301595434" ValTyp="Other" Row="2026-02-02" RowTyp="Other"/>
+  <Msr Val="1.0376475339218956" ValTyp="Other" Row="2027-02-01" RowTyp="Other"/>
+  <Msr Val="1.0419106221700096" ValTyp="Other" Row="2028-02-01" RowTyp="Other"/>
+  <Msr Val="1.0505012143339043" ValTyp="Other" Row="2030-02-01" RowTyp="Other"/>
+  <Msr Val="1.0635141175019382" ValTyp="Other" Row="2033-02-01" RowTyp="Other"/>
+  <Msr Val="1.0855533565427122" ValTyp="Other" Row="2038-02-01" RowTyp="Other"/>
+  <Msr Val="1.1080617621310789" ValTyp="Other" Row="2043-02-02" RowTyp="Other"/>
+</Curve>
+
+<Mtrx Name="EUR-EAUG.PA">
+  <Undly PxStrctTyp="EQ_DIVIDENDS" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-12"/>
+  <Msr Val="0.95" ValTyp="Other" Col="TAX_RATE" Row="0" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-05-05" ValTyp="Other" Col="EX_DATE" Row="0" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-05-05" ValTyp="Other" Col="PAYMENT_DATE" Row="0" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.3989999999999968" ValTyp="Other" Col="VALUE" Row="0" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="false" ValTyp="Other" Col="RELATIVE" Row="0" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.9" ValTyp="Other" Col="TAX_RATE" Row="1" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2019-05-05" ValTyp="Other" Col="EX_DATE" Row="1" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2019-05-05" ValTyp="Other" Col="PAYMENT_DATE" Row="1" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.3784749041095817" ValTyp="Other" Col="VALUE" Row="1" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="false" ValTyp="Other" Col="RELATIVE" Row="1" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.9" ValTyp="Other" Col="TAX_RATE" Row="2" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2019-05-05" ValTyp="Other" Col="EX_DATE" Row="2" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2019-05-05" ValTyp="Other" Col="PAYMENT_DATE" Row="2" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0018914267717872" ValTyp="Other" Col="VALUE" Row="2" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="2" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="3" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2020-05-05" ValTyp="Other" Col="EX_DATE" Row="3" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2020-05-05" ValTyp="Other" Col="PAYMENT_DATE" Row="3" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.24628819672131" ValTyp="Other" Col="VALUE" Row="3" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="false" ValTyp="Other" Col="RELATIVE" Row="3" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="4" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2020-05-05" ValTyp="Other" Col="EX_DATE" Row="4" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2020-05-05" ValTyp="Other" Col="PAYMENT_DATE" Row="4" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0084487839214201" ValTyp="Other" Col="VALUE" Row="4" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="4" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="5" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2021-04-29" ValTyp="Other" Col="EX_DATE" Row="5" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2021-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="5" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1017113521045672" ValTyp="Other" Col="VALUE" Row="5" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="false" ValTyp="Other" Col="RELATIVE" Row="5" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="6" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2021-04-29" ValTyp="Other" Col="EX_DATE" Row="6" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2021-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="6" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0146301041991721" ValTyp="Other" Col="VALUE" Row="6" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="6" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="7" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2022-04-29" ValTyp="Other" Col="EX_DATE" Row="7" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2022-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="7" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942105" ValTyp="Other" Col="VALUE" Row="7" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="7" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="8" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2023-04-28" ValTyp="Other" Col="EX_DATE" Row="8" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2023-04-28" ValTyp="Other" Col="PAYMENT_DATE" Row="8" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942105" ValTyp="Other" Col="VALUE" Row="8" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="8" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="9" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2024-04-29" ValTyp="Other" Col="EX_DATE" Row="9" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2024-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="9" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942107" ValTyp="Other" Col="VALUE" Row="9" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="9" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="10" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2025-04-29" ValTyp="Other" Col="EX_DATE" Row="10" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2025-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="10" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="15" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942104" ValTyp="Other" Col="VALUE" Row="11" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="11" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="12" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2027-04-29" ValTyp="Other" Col="EX_DATE" Row="12" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2027-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="12" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942109" ValTyp="Other" Col="VALUE" Row="12" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="12" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="13" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2028-04-28" ValTyp="Other" Col="EX_DATE" Row="13" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2028-04-28" ValTyp="Other" Col="PAYMENT_DATE" Row="13" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942107" ValTyp="Other" Col="VALUE" Row="13" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="13" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="14" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2029-04-27" ValTyp="Other" Col="EX_DATE" Row="14" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2029-04-27" ValTyp="Other" Col="PAYMENT_DATE" Row="14" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942108" ValTyp="Other" Col="VALUE" Row="14" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="14" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="15" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2030-04-29" ValTyp="Other" Col="EX_DATE" Row="15" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2030-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="15" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942107" ValTyp="Other" Col="VALUE" Row="15" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0190809262942105" ValTyp="Other" Col="VALUE" Row="10" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="true" ValTyp="Other" Col="RELATIVE" Row="10" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.85" ValTyp="Other" Col="TAX_RATE" Row="11" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2026-04-29" ValTyp="Other" Col="EX_DATE" Row="11" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2026-04-29" ValTyp="Other" Col="PAYMENT_DATE" Row="11" ColTyp="Other" RowTyp="Other"/>
+</Mtrx>
+
+<Mtrx Name="EUR-EAUG.PA">
+  <Undly PxStrctTyp="EQ_ORC_PARAMS" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-24"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2021-01-29" ValTyp="Other" Col="EXPIRY" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0660724172897018" ValTyp="Other" Col="CALL_CURV" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1024547792168972" ValTyp="Other" Col="PUT_CURV" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0570496454135272" ValTyp="Other" Col="SLOPE_REF" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2685451649811408" ValTyp="Other" Col="VOL_REF" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2021-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2020-01-29" ValTyp="Other" Col="EXPIRY" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.162505537751428" ValTyp="Other" Col="CALL_CURV" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1255955076058795" ValTyp="Other" Col="PUT_CURV" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0699350408952487" ValTyp="Other" Col="SLOPE_REF" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2654205018611396" ValTyp="Other" Col="VOL_REF" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2020-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2019-01-29" ValTyp="Other" Col="EXPIRY" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2736387179134476" ValTyp="Other" Col="CALL_CURV" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1604427874362682" ValTyp="Other" Col="PUT_CURV" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.055317078625216" ValTyp="Other" Col="SLOPE_REF" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2668107343323919" ValTyp="Other" Col="VOL_REF" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2019-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2022-01-31" ValTyp="Other" Col="EXPIRY" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0039006193085651" ValTyp="Other" Col="CALL_CURV" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0887790365393917" ValTyp="Other" Col="PUT_CURV" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0494346148948761" ValTyp="Other" Col="SLOPE_REF" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.272287903505861" ValTyp="Other" Col="VOL_REF" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2022-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2023-01-30" ValTyp="Other" Col="EXPIRY" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0303981282910356" ValTyp="Other" Col="CALL_CURV" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0794118199004782" ValTyp="Other" Col="PUT_CURV" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0442186904465848" ValTyp="Other" Col="SLOPE_REF" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.274437953255388" ValTyp="Other" Col="VOL_REF" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2023-01-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2028-01-31" ValTyp="Other" Col="EXPIRY" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0214947226499699" ValTyp="Other" Col="CALL_CURV" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.056152636357993" ValTyp="Other" Col="PUT_CURV" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0312673358699689" ValTyp="Other" Col="SLOPE_REF" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2782818786941536" ValTyp="Other" Col="VOL_REF" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2028-01-31" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-10-29" ValTyp="Other" Col="EXPIRY" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.3675677480320466" ValTyp="Other" Col="CALL_CURV" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2204530499648967" ValTyp="Other" Col="PUT_CURV" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0523917227302585" ValTyp="Other" Col="SLOPE_REF" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2689036600537282" ValTyp="Other" Col="VOL_REF" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2018-10-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-02-28" ValTyp="Other" Col="EXPIRY" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="1.684942116716074" ValTyp="Other" Col="CALL_CURV" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="1.1387084781718753" ValTyp="Other" Col="PUT_CURV" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0640106249220211" ValTyp="Other" Col="SLOPE_REF" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2847511159801626" ValTyp="Other" Col="VOL_REF" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2018-02-28" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-07-30" ValTyp="Other" Col="EXPIRY" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.5648013273402702" ValTyp="Other" Col="CALL_CURV" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.3840990561431704" ValTyp="Other" Col="PUT_CURV" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0575335708651184" ValTyp="Other" Col="SLOPE_REF" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2716587370506297" ValTyp="Other" Col="VOL_REF" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2018-07-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2027-01-29" ValTyp="Other" Col="EXPIRY" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0226532921382088" ValTyp="Other" Col="CALL_CURV" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0591792737437345" ValTyp="Other" Col="PUT_CURV" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.032952651000914" ValTyp="Other" Col="SLOPE_REF" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2782096675470647" ValTyp="Other" Col="VOL_REF" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2027-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2026-01-29" ValTyp="Other" Col="EXPIRY" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0240219658924644" ValTyp="Other" Col="CALL_CURV" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0627547857829908" ValTyp="Other" Col="PUT_CURV" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.034943594669628" ValTyp="Other" Col="SLOPE_REF" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2777495433268576" ValTyp="Other" Col="VOL_REF" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2026-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2024-01-29" ValTyp="Other" Col="EXPIRY" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0277508341145476" ValTyp="Other" Col="CALL_CURV" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0724960504046027" ValTyp="Other" Col="PUT_CURV" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.040367799345974" ValTyp="Other" Col="SLOPE_REF" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2759019721175969" ValTyp="Other" Col="VOL_REF" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2024-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2025-01-29" ValTyp="Other" Col="EXPIRY" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0256880930751786" ValTyp="Other" Col="CALL_CURV" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.0671073627080645" ValTyp="Other" Col="PUT_CURV" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0373672294879206" ValTyp="Other" Col="SLOPE_REF" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2769943638851572" ValTyp="Other" Col="VOL_REF" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2025-01-29" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_ORC" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="EUR-EAUG.PA" ValTyp="Other" Col="NAME_MUREX" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2018-04-30" ValTyp="Other" Col="EXPIRY" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="ATM_FWD" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="24" ValTyp="Other" Col="REF_FWD" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.9666368145370111" ValTyp="Other" Col="CALL_CURV" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.4307829160924542" ValTyp="Other" Col="DOWN_CUT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="3.40388862700099" ValTyp="Other" Col="DOWN_SMOOTH_RT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.6597798913381412" ValTyp="Other" Col="PUT_CURV" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_CH_RT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="-0.0649177013098891" ValTyp="Other" Col="SLOPE_REF" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="SLOPE_SWIMM_RT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1823215567939546" ValTyp="Other" Col="UP_CUT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="2.8017840169239308" ValTyp="Other" Col="UP_SMOOTH_RT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0" ValTyp="Other" Col="VOL_CH_RT" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.2637626202502353" ValTyp="Other" Col="VOL_REF" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="_" ValTyp="Other" Col="FEEDCODE" Row="2018-04-30" ColTyp="Other" RowTyp="Other"/>
+</Mtrx>
+
+  <Mtrx Name="EUR-EAUG.PA">
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-02-16" RowTyp="Other" Val="0.2875" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-02-16" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-04-20" RowTyp="Other" Val="0.2625" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-04-20" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2023-12-15" RowTyp="Other" Val="0.2757589135912925" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2023-12-15" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2022-12-16" RowTyp="Other" Val="0.2742466236210219" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2022-12-16" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2021-12-17" RowTyp="Other" Val="0.272" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2021-12-17" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2020-12-18" RowTyp="Other" Val="0.268" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2020-12-18" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2026-12-18" RowTyp="Other" Val="0.2782011953346498" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2026-12-18" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2025-12-19" RowTyp="Other" Val="0.2776902021254974" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2025-12-19" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-06-15" RowTyp="Other" Val="0.2735" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-06-15" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2024-12-20" RowTyp="Other" Val="0.2769095350814007" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2024-12-20" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2019-06-21" RowTyp="Other" Val="0.265" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2019-06-21" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-03-16" RowTyp="Other" Val="0.2825" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-03-16" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-12-21" RowTyp="Other" Val="0.2675" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-12-21" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2019-12-20" RowTyp="Other" Val="0.265" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2019-12-20" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2019-03-15" RowTyp="Other" Val="0.266" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2019-03-15" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2028-12-15" RowTyp="Other" Val="0.278335321523118" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2028-12-15" RowTyp="Other" Val="24" ValTyp="Other"/>
+                    
+    <Msr Col="VOL" ColTyp="Other" Row="2018-09-21" RowTyp="Other" Val="0.27" ValTyp="Other"/>
+                    
+    <Msr Col="STRIKE" ColTyp="Other" Row="2018-09-21" RowTyp="Other" Val="24" ValTyp="Other"/>
+             
+    <Undly PxStrctTyp="EQ_ATM_VOL" IssuDtTm="2018-01-29" LastUpdateTm="--"/>
+  </Mtrx>
+<Pnt Name="EUR-EAUG.PA">
+  <Undly PxStrctTyp="EQ_SPOT" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="23.29" ValTyp="Other" MktDataTyp="MID"/>
+</Pnt>
+
+<Pnt Name="EUR-EAUG.PA">
+  <Undly PxStrctTyp="EQ_LIQUIDITY" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="65000000" ValTyp="Other" MktDataTyp="MID"/>
+</Pnt>
+
+
+</Mkt>

@@ -1,0 +1,32 @@
+
+<Mkt>
+
+<Pnt Name="EUR-AUD">
+  <Undly PxStrctTyp="FX_SPOT" IssuDtTm="2018-01-29" LastUpdateTm="2015-12-21"/>
+  <Msr Val="1.5203456" ValTyp="Other" MktDataTyp="MID"/>
+</Pnt>
+
+
+<Mtrx Name="EUR-AUD">
+  <Undly PxStrctTyp="FX_SMILE" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="0.103928" ValTyp="Other" Col="2028-01-27" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.069502" ValTyp="Other" Col="2018-02-26" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.071622" ValTyp="Other" Col="2018-03-12" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.101724" ValTyp="Other" Col="2029-01-29" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.095715" ValTyp="Other" Col="2023-01-27" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.075069" ValTyp="Other" Col="2018-03-27" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.075839" ValTyp="Other" Col="2018-02-05" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.081013" ValTyp="Other" Col="2018-10-29" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.075832" ValTyp="Other" Col="2018-04-26" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.074757" ValTyp="Other" Col="2018-02-12" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.053108" ValTyp="Other" Col="2018-01-30" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.081985" ValTyp="Other" Col="2019-01-29" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.076618" ValTyp="Other" Col="2018-05-29" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.072789" ValTyp="Other" Col="2018-02-19" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.085961" ValTyp="Other" Col="2020-01-29" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.089454" ValTyp="Other" Col="2021-01-27" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.078356" ValTyp="Other" Col="2018-07-27" Row="1.5203456" ColTyp="Other" RowTyp="Other"/>
+</Mtrx>
+
+
+</Mkt>

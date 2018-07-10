@@ -1,0 +1,5 @@
+<marketdata_ircurve ccy="MXN" date_shifter="2 OPEN DAYS" holidays="TARGET" type="DISCOUNT_FACTOR" value="MXN :Std">
+  <date_value_pairs>
+    <interpolation extrapolate_left="FALSE" extrapolate_right="FALSE" flat_extrapolation_left="FALSE" flat_extrapolation_right="FALSE" magnitude="DISC_FACTORS" method="LOGLINEAR1LOGSPLINE" spline_boundary_conditions="NATURAL"/>
+  </date_value_pairs>
+</marketdata_ircurve>

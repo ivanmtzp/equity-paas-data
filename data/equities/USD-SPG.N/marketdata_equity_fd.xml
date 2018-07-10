@@ -1,0 +1,22 @@
+<marketdata_equity date_shifter="3 OPEN DAYS" equity_index="false" estimation_ccy_curve="USD :Std" holidays="TARGET" value="USD-SPG.N">
+    
+  <dividend_yield>
+    <date_value_pairs>
+      <interpolation extrapolate="true" flat_extrapolation="true" magnitude="RATES_CONT_ACT365" method="LINEAR" spline_boundary_conditions="CONSTANT_SLOPE"/>
+    </date_value_pairs>
+  </dividend_yield>
+  
+    
+  <dividend/>
+    
+  <vol_orc interpolation="VARIANCE_MONEYNESS_FWD"/>
+  <stoch_vol_params id="CALIBRATED">
+    <calibration>
+      <parameters>
+        <parameters_item value="calibrator_id">
+          <string_value value="STOCH_VOL_PARAMS_CALIBRATOR"/>
+        </parameters_item>
+      </parameters>
+    </calibration>
+  </stoch_vol_params>
+</marketdata_equity>

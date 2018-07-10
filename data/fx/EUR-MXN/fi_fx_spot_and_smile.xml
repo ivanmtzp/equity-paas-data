@@ -1,0 +1,26 @@
+
+<Mkt>
+
+<Pnt Name="EUR-MXN">
+  <Undly PxStrctTyp="FX_SPOT" IssuDtTm="2018-01-29" LastUpdateTm="2015-12-21"/>
+  <Msr Val="18.7251603" ValTyp="Other" MktDataTyp="MID"/>
+</Pnt>
+
+
+<Mtrx Name="EUR-MXN">
+  <Undly PxStrctTyp="FX_SMILE" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="0.12635" ValTyp="Other" Col="2018-02-26" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.14348" ValTyp="Other" Col="2023-01-27" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.127" ValTyp="Other" Col="2018-03-26" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.14705" ValTyp="Other" Col="2018-02-02" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1426" ValTyp="Other" Col="2018-10-29" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1256" ValTyp="Other" Col="2018-04-26" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1302" ValTyp="Other" Col="2018-01-30" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.1395" ValTyp="Other" Col="2019-01-29" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.142" ValTyp="Other" Col="2020-01-29" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.14283" ValTyp="Other" Col="2021-01-27" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.14875" ValTyp="Other" Col="2018-07-27" Row="18.7251603" ColTyp="Other" RowTyp="Other"/>
+</Mtrx>
+
+
+</Mkt>

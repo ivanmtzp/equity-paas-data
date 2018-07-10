@@ -1,0 +1,29 @@
+
+<Mkt>
+<Curve Name="AUD :Std">
+  <Undly PxStrctTyp="IR_ZERO_CURVE" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="1" ValTyp="Other" Row="2018-01-29" RowTyp="Other"/>
+  <Msr Val="0.9999575360498391" ValTyp="Other" Row="2018-01-30" RowTyp="Other"/>
+  <Msr Val="0.9987699985215969" ValTyp="Other" Row="2018-02-28" RowTyp="Other"/>
+  <Msr Val="0.9962641256344904" ValTyp="Other" Row="2018-04-30" RowTyp="Other"/>
+  <Msr Val="0.9924041752210939" ValTyp="Other" Row="2018-07-30" RowTyp="Other"/>
+  <Msr Val="0.9882803471510327" ValTyp="Other" Row="2018-10-30" RowTyp="Other"/>
+  <Msr Val="0.9839148051518385" ValTyp="Other" Row="2019-01-30" RowTyp="Other"/>
+  <Msr Val="0.9744753768414696" ValTyp="Other" Row="2019-07-30" RowTyp="Other"/>
+  <Msr Val="0.964085117474673" ValTyp="Other" Row="2020-01-30" RowTyp="Other"/>
+  <Msr Val="0.9419419528986764" ValTyp="Other" Row="2021-01-29" RowTyp="Other"/>
+  <Msr Val="0.9183336883846397" ValTyp="Other" Row="2022-01-31" RowTyp="Other"/>
+  <Msr Val="0.8945332725227297" ValTyp="Other" Row="2023-01-30" RowTyp="Other"/>
+  <Msr Val="0.8702949812127386" ValTyp="Other" Row="2024-01-30" RowTyp="Other"/>
+  <Msr Val="0.8453161764308176" ValTyp="Other" Row="2025-01-30" RowTyp="Other"/>
+  <Msr Val="0.8211990984067441" ValTyp="Other" Row="2026-01-30" RowTyp="Other"/>
+  <Msr Val="0.79676922017668" ValTyp="Other" Row="2027-01-29" RowTyp="Other"/>
+  <Msr Val="0.7718643334837654" ValTyp="Other" Row="2028-01-31" RowTyp="Other"/>
+  <Msr Val="0.724509254126418" ValTyp="Other" Row="2030-01-30" RowTyp="Other"/>
+  <Msr Val="0.6554696831377183" ValTyp="Other" Row="2033-01-31" RowTyp="Other"/>
+  <Msr Val="0.5608363588225624" ValTyp="Other" Row="2038-01-29" RowTyp="Other"/>
+  <Msr Val="0.4802597138963743" ValTyp="Other" Row="2043-01-30" RowTyp="Other"/>
+  <Msr Val="0.4175721465842839" ValTyp="Other" Row="2048-01-30" RowTyp="Other"/>
+</Curve>
+
+</Mkt>

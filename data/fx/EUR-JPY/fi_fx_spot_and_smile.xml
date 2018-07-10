@@ -1,0 +1,32 @@
+
+<Mkt>
+
+<Pnt Name="EUR-JPY">
+  <Undly PxStrctTyp="FX_SPOT" IssuDtTm="2018-01-29" LastUpdateTm="2015-12-21"/>
+  <Msr Val="132.0351555" ValTyp="Other" MktDataTyp="MID"/>
+</Pnt>
+
+
+<Mtrx Name="EUR-JPY">
+  <Undly PxStrctTyp="FX_SMILE" IssuDtTm="2018-01-29" LastUpdateTm="2018-01-29"/>
+  <Msr Val="0.117352" ValTyp="Other" Col="2028-01-27" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.071343" ValTyp="Other" Col="2018-02-26" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.07533" ValTyp="Other" Col="2018-03-12" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.118102" ValTyp="Other" Col="2029-01-29" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.10235" ValTyp="Other" Col="2023-01-27" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.081882" ValTyp="Other" Col="2018-03-27" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.073784" ValTyp="Other" Col="2018-02-05" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.085197" ValTyp="Other" Col="2018-10-29" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.080946" ValTyp="Other" Col="2018-04-25" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.073656" ValTyp="Other" Col="2018-02-09" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.054772" ValTyp="Other" Col="2018-01-30" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.085962" ValTyp="Other" Col="2019-01-29" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.081784" ValTyp="Other" Col="2018-05-29" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.073658" ValTyp="Other" Col="2018-02-19" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.091348" ValTyp="Other" Col="2020-01-29" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.095725" ValTyp="Other" Col="2021-01-27" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+  <Msr Val="0.08346" ValTyp="Other" Col="2018-07-27" Row="132.0351555" ColTyp="Other" RowTyp="Other"/>
+</Mtrx>
+
+
+</Mkt>
