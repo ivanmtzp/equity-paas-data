@@ -352,7 +352,7 @@ if __name__ == '__main__':
     if not os.path.exists(settings_json_out_dir):
         os.makedirs(settings_json_out_dir)
 
-    start_date = datetime.date(2008, 8, 1)
+    start_date = datetime.date(2017, 8, 1)
     end_date = datetime.date(2018, 8, 1)
 
     historical_days = working_days(start_date, end_date)
