@@ -273,7 +273,7 @@ def process_equity(args):
         with open(equity_fd_data_file) as fdxml_fd:
             fixml = xmltodict.parse(fixml_fd.read())
             fdxml = xmltodict.parse(fdxml_fd.read())
-            print("Start : {}-{}".format(equity_name, time.clock()))
+            print("Start : {}".format(equity_name))
             equity = create_equity(today, equity_name, fixml, fdxml)
             with zipfile.ZipFile(file=equity_json_output_file, mode='w', compression=zipfile.ZIP_DEFLATED) as myzip:
                 with myzip.open(equity_name + ".json", mode='w') as outfile:
@@ -316,7 +316,7 @@ def process_curve(args):
     curve_json_output_file = curve_json_output_file_prefix + '.zip'
     with open(curve_data_file) as fd:
         fixml = xmltodict.parse(fd.read())
-        print("Start : {} - {}".format(curve_name, time.clock()))
+        print("Start : {}".format(curve_name))
         date = today
         curve = create_curve(date, curve_name, fixml)
         with zipfile.ZipFile(file=curve_json_output_file, mode='w', compression=zipfile.ZIP_DEFLATED) as myzip:
